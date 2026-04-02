@@ -45,7 +45,7 @@ This portfolio website serves as a comprehensive digital presence for showcasing
 
 ## Demo
 
-Visit the live portfolio: [Manish Kumar Mahato Portfolio](https://codebymanish-mahato.github.io/Portfolio/)
+Visit the live portfolio: [Manish Kumar Mahato Portfolio](https://manish-mahato-2027.github.io/Portfolio/)
 
 ## Technologies Used
 
